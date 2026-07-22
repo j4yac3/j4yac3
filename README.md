@@ -41,4 +41,4 @@ I am a Certified Information Technology Assistant currently focusing on advancin
 
 ### 📫 Let's Connect!
 * **Portfolio / Website:** [jayace-music.netlify.app](https://jayace-music.netlify.app/)
-* **Discord:** [Join my server](https://discord.gg/CdMUYpkfDZ)
+* **Discord:** [Join my server](https://discord.com/invite/CcMUYpkfDZ)
