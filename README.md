@@ -1,4 +1,4 @@
-# Hi, I'm Jayace👋
+# Hi, I'm Jayace 👋
 
 **Certified Information Technology Assistant | Aspiring Software Developer** 🚀
 
@@ -33,9 +33,15 @@ I am a Certified Information Technology Assistant currently focusing on advancin
 
 ---
 
-### 🔭 Current Projects
-* **Simple-Passwortmanager:** A local password manager featuring AES-256 encryption, built with Java.
-* **PicClean:** A fast and modern tool designed to identify duplicate and blurred images.
+### 🔭 My Projects
+
+Here is an overview of my current and past work:
+
+*   **[Simple-Passwortmanager](https://github.com/j4yac3/Simple-Passwortmanager):** A local password manager featuring AES-256 encryption, built with Java.
+*   **[PicClean](https://github.com/j4yac3/PicClean):** A fast and modern tool designed to identify duplicate and blurred images.
+*   **[WeirdoAuktion](https://github.com/j4yac3/WeirdoAuktion):** A custom auction house game developed for the Discord server of the artist "Yu", specifically designed for the event team.
+*   **[Yuwolf](https://github.com/j4yac3/Yuwolf):** A social deduction game identical to the classic "Werewolf", but custom-themed around the artist "Yu".
+*   **[JM-Todo](https://github.com/j4yac3/JM-Todo):** A task management application built to organize daily to-dos efficiently.
 
 ---
 
