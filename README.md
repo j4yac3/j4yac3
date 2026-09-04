@@ -38,8 +38,6 @@ Here is an overview of my current and past work:
 *   **[Bobs-Burgers-MC-Mod](https://github.com/j4yac3/Bobs-Burgers-MC-Mod):** A comprehensive Minecraft Forge mod for 1.20.1 bringing characters, interactive quests, custom items, and instant structures from the animated sitcom Bob's Burgers into the game.
 *   **[Simple-Passwortmanager](https://github.com/j4yac3/Simple-Passwortmanager):** A local password manager featuring AES-256 encryption, built with Java.
 *   **[PicClean](https://github.com/j4yac3/PicClean):** A fast and modern tool designed to identify duplicate and blurred images.
-*   **[WeirdoAuktion](https://github.com/j4yac3/WeirdoAuktion):** A custom auction house game developed for the Discord server of the artist "Yu", specifically designed for the event team.
-*   **[Yuwolf](https://github.com/j4yac3/Yuwolf):** A social deduction game identical to the classic "Werewolf", but custom-themed around the artist "Yu".
 *   **[JM-Todo](https://github.com/j4yac3/JM-Todo):** A task management application built to organize daily to-dos efficiently.
 
 ### 📫 Let's Connect!
