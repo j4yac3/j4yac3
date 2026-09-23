@@ -85,6 +85,5 @@ Currently focused on **full-stack web development** with Node.js, React, and SQL
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jayace--music.netlify.app-FF6B6B?style=for-the-badge)](https://jayace-music.netlify.app/)
 [![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=for-the-badge)](https://discord.com/invite/CcMUYpkfDZ)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-j4yac3-181717?style=for-the-badge&logo=github)](https://github.com/j4yac3)
 
 </div>
