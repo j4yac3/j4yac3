@@ -57,14 +57,6 @@ Currently focused on **full-stack web development** with Node.js, React, and SQL
 ### 🎫 [Ticket System](https://github.com/j4yac3/Ticket-System) — *Open Source*
 > A fully self-hosted IT support ticket system built from scratch.
 
-**Stack:** React · Vite · Node.js · Express · SQLite
-
-- Role-based access: Admin / Staff / Customer
-- Ticket assignment, locking, internal notes & file attachments
-- Two-factor authentication (TOTP), CSRF protection & audit log
-- Full dark mode with a custom warm red & charcoal theme
-- Zero cloud dependencies — runs with a single command
-
 ---
 
 ### 🔐 [Simple-Passwortmanager](https://github.com/j4yac3/Simple-Passwortmanager)
