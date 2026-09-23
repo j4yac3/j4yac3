@@ -54,7 +54,7 @@ Currently focused on **full-stack web development** with Node.js, React, and SQL
 
 ## 🚀 Featured Projects
 
-### 🎫 [Ticket System](https://github.com/j4yac3/Ticket-System) — *Open Source*
+### 🎫 [Ticket System](https://github.com/j4yac3/Ticket-System)
 > A fully self-hosted IT support ticket system built from scratch.
 
 ---
